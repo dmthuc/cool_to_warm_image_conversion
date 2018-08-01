@@ -1,0 +1,2 @@
+# cool_to_warm_image_conversion
+Algorithm for image cool_to_warm_transformation

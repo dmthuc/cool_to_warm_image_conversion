@@ -1,5 +1,5 @@
 # cool_to_warm_image_conversion
-Algorithm for image cool_to_warm_transformation
+Algorithm for image cool_to_warm_transformation. Described in http://graphics.stanford.edu/~boulos/papers/orgb_sig.pdf
 
 
 Build in linux:  

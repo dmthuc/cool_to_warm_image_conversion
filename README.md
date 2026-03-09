@@ -12,6 +12,10 @@ main image.png
 After that it will display the output image.  
 Press any key to terminate the program.  
 
+
+Input image
 ![Input](image2.png)
 
+
+Output image
 ![Output](result.png)
